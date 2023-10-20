@@ -1,0 +1,3 @@
+./libs/dll_one.dll
+./libs/dll_two.dll
+./libs/dll_three.dll

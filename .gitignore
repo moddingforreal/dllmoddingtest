@@ -1,0 +1,5 @@
+*.zip
+*.dll
+*.so
+*.exe
+./somoddingtest
